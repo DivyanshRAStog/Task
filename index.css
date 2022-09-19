@@ -1,0 +1,20 @@
+.company
+{
+    margin:auto!important;
+    margin-top: 62px!important;
+}
+
+table,td,tr
+  {
+    border-bottom: 1px solid #989898!important;
+  }
+  thead{
+    font-family: 'Encode Sans', sans-serif;
+    font-weight: 500!important;
+  }
+td{
+    background-color: #eaeae1!important;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400!important;
+    padding-top: 27px!important;
+}
